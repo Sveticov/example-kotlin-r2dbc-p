@@ -1,0 +1,15 @@
+#GET localhost:8080/api/product/all
+
+#POST localhost:8080/api/product
+#Content-Type: application/json
+#
+# {
+#  "name": "Valtec",
+#  "model": "f97",
+#  "price": 290.0
+# }
+
+DELETE localhost:8080/api/product/test
+
+
+
